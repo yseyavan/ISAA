@@ -13,10 +13,13 @@
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
         android:fontFamily="@font/poppins_bold"
         android:text="Welcome"
         android:textColor="@color/black"
-        android:textSize="30sp" />
+        android:textSize="30sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
         android:id="@+id/textView2"
@@ -133,19 +136,21 @@
 
     <com.google.android.material.button.MaterialButton
         android:id="@+id/btn_signup"
+        style="@style/Widget.MaterialComponents.Button.OutlinedButton"
         android:layout_width="match_parent"
         android:layout_height="60dp"
-        android:layout_marginTop="122dp"
-        style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+        android:layout_marginTop="24dp"
         android:fontFamily="@font/poppins_semibold"
         android:text="Create an Account"
         android:textAllCaps="false"
         android:textColor="@color/black"
-        app:strokeColor="#7E8082"
-        app:strokeWidth="1dp"
         app:cornerRadius="12dp"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/btn_login" />
+        app:layout_constraintTop_toBottomOf="@+id/textView4"
+        app:layout_constraintVertical_bias="0.0"
+        app:rippleColor="@color/black"
+        app:strokeColor="#7E8082"
+        app:strokeWidth="1dp" />
 
 
 
