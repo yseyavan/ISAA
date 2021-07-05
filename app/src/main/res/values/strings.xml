@@ -1,3 +1,52 @@
 <resources>
     <string name="app_name">ISAA</string>
+
+    <string name="my_notes">My Notes</string>
+    <string name="search_notes">Search notes</string>
+    <string name="note_title">Note Title</string>
+    <string name="note_subtitle">Note Subtitle</string>
+    <string name="type_note_here">Type note here...</string>
+    <string name="miscellaneous">Miscellaneous</string>
+    <string name="pick_color">Pick Color</string>
+    <string name="add_image">Add Image</string>
+    <string name="add_url">Add URL</string>
+    <string name="enter_url">Enter URL</string>
+    <string name="add">ADD</string>
+    <string name="cancel_dialog">CANCEL</string>
+    <string name="delete_note">Delete Note</string>
+    <string name="are_you_sure_you_want_to_delete_this_note">Are You Sure You want to delete this Note</string>
+    <string name="delete_notes">DELETE NOTE</string>
+    <string name="more_options">More Options</string>
+
+    <string name="please_login_to_your_account">Please login to your account.</string>
+    <string name="activity_create_note_input_note_title_hint">Note Title</string>
+    <string name="activity_create_note_input_note_subtitle_hint">note_subtitle</string>
+    <string name="activity_create_note_input_note_text_hint">Type note here..</string>
+    <string name="activity_main_text_my_note_text">My Notes</string>
+    <string name="activity_main_input_search_hint">Search notes</string>
+    <string name="layout_add_url_text_add_url_title_text">Add URL</string>
+    <string name="layout_add_url_input_url_hint">Enter URL</string>
+    <string name="layout_add_url_text_add_text">ADD</string>
+    <string name="layout_add_url_text_cancel_text">CANCEL</string>
+    <string name="layout_delete_note_text_delete_note_title_text">Delete Note</string>
+    <string name="layout_delete_note_text_delete_note_message_text">Are you sure want to delete this note?</string>
+    <string name="layout_delete_note_text_delete_note_text">DELETE NOTE</string>
+    <string name="layout_delete_note_text_cancel_text">CANCEL</string>
+    <string name="layout_miscellaneous_text_miscellaneous_text">Miscellaneous</string>
+    <string name="layout_miscellaneous_text_pick_color_text">Pick Color</string>
+    <string name="layout_miscellaneous_text_add_image_text">Add Image</string>
+    <string name="layout_miscellaneous_text_add_url_text">Add URL</string>
+    <string name="layout_miscellaneous_text_delete_note_text">Delete Note</string>
+    <string name="add_a_visit">Add a Visit</string>
+    <string name="your_visits">Your Visits</string>
+    <string name="resources">Resources</string>
+    <string name="your_request">Your Request</string>
+    <string name="your_report">Your Report</string>
+    <string name="new_account">New Account</string>
+    <string name="signup_desc">Start by entering your name and categorie below.</string>
+    <string name="login_desc">Enter your login details to access your account</string>
+    <string name="log_in">Log In</string>
+    <string name="message">This App will send you an SMS message for verification and standard rates apply.. Kindly enter your phone Number</string>
+    <string name="reset_pass_message">Seems like you forgot your password for MarksPlus. If this is true, click below to reset your password.</string>
+
 </resources>
