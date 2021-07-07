@@ -8,11 +8,11 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 
-    <color name="bg">#EFF0F2</color>
+    <color name="bg">#EFF3FF</color>
     <color name="primary_text">#0B0D0C</color>
     <color name="secondary_text">#7D818A</color>
-    <color name="dark_shadow">#fff</color>
-    <color name="light_shadow">#fff</color>
+    <color name="dark_shadow">#E2E7FD</color>
+    <color name="light_shadow">#F8FAFF</color>
     <color name="dark_icon">#212121</color>
 
     <color name="colorPrimary">#292929</color>
